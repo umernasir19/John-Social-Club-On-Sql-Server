@@ -19,8 +19,8 @@ Pattern
 Forms
 --------------------------------
 1. Simple login screen
-	a. Username: demo
-	b. Password: demo123
+	a. Username: admin
+	b. Password: admin	
 1. Registration form to register new club members
 2. Search / Manage screen
 	a. Retrieve data based on search parameters or retrieves all data 
